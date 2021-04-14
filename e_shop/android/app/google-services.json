@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511839204974",
+    "project_id": "ecommerceshop-edc40",
+    "storage_bucket": "ecommerceshop-edc40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511839204974:android:b799c6fe14fa8098c3987f",
+        "android_client_info": {
+          "package_name": "com.asifmostafiz.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511839204974-4tj6b63jb1nme6crvr0ef8fmarardqst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIE2x4uI8Xo2sSbZoqFXjSFGsfr9Pc8f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511839204974-4tj6b63jb1nme6crvr0ef8fmarardqst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
